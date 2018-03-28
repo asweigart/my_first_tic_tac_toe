@@ -36,7 +36,7 @@ if move == '1':
     print('   |   |   ')
     print(' X |   |   ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -58,7 +58,7 @@ if move == '1':
         print('   |   |   ')
         print(' X | X | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -80,7 +80,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -96,7 +96,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -112,7 +112,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -134,7 +134,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -150,7 +150,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -166,7 +166,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '7':
@@ -182,7 +182,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -198,7 +198,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '3':
@@ -214,7 +214,7 @@ if move == '1':
         print('   |   |   ')
         print(' X | O | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -236,7 +236,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -258,7 +258,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -274,7 +274,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -290,7 +290,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -311,7 +311,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '5':
@@ -327,7 +327,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -349,7 +349,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -365,7 +365,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -381,7 +381,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -402,7 +402,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -418,7 +418,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -440,7 +440,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -456,7 +456,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -472,7 +472,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -493,7 +493,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '7':
@@ -509,7 +509,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -530,7 +530,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '6':
@@ -546,7 +546,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -567,7 +567,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -583,7 +583,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -604,7 +604,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -620,7 +620,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -642,7 +642,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -663,7 +663,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -679,7 +679,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -700,7 +700,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -716,7 +716,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -737,7 +737,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '4':
@@ -753,7 +753,7 @@ if move == '1':
         print('   |   |   ')
         print(' X |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -775,7 +775,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -791,7 +791,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -807,7 +807,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -823,7 +823,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -839,7 +839,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -861,7 +861,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -877,7 +877,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -893,7 +893,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '5':
@@ -909,7 +909,7 @@ if move == '1':
         print('   |   |   ')
         print(' X |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -931,7 +931,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -947,7 +947,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -963,7 +963,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -985,7 +985,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1006,7 +1006,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -1022,7 +1022,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1043,7 +1043,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -1059,7 +1059,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1080,7 +1080,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '7':
@@ -1096,7 +1096,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -1112,7 +1112,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '6':
@@ -1128,7 +1128,7 @@ if move == '1':
         print('   |   |   ')
         print(' X |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -1150,7 +1150,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1172,7 +1172,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -1188,7 +1188,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -1204,7 +1204,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -1220,7 +1220,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1242,7 +1242,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -1257,7 +1257,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -1273,7 +1273,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -1289,7 +1289,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1311,7 +1311,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1332,7 +1332,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -1348,7 +1348,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1369,7 +1369,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -1385,7 +1385,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1406,7 +1406,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '7':
@@ -1422,7 +1422,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1444,7 +1444,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1465,7 +1465,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -1481,7 +1481,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1502,7 +1502,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -1518,7 +1518,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1539,7 +1539,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -1555,7 +1555,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1577,7 +1577,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -1593,7 +1593,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -1609,7 +1609,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1630,7 +1630,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
     if move == '7':
@@ -1646,7 +1646,7 @@ if move == '1':
         print('   |   |   ')
         print(' X |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -1668,7 +1668,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1690,7 +1690,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -1706,7 +1706,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1727,7 +1727,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -1743,7 +1743,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '3':
@@ -1759,7 +1759,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1780,7 +1780,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '6':
@@ -1796,7 +1796,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1817,7 +1817,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -1833,7 +1833,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1854,7 +1854,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '5':
@@ -1870,7 +1870,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1892,7 +1892,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -1908,7 +1908,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -1929,7 +1929,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -1945,7 +1945,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '6':
@@ -1961,7 +1961,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -1983,7 +1983,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2004,7 +2004,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -2020,7 +2020,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2041,7 +2041,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -2057,7 +2057,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2078,7 +2078,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -2094,7 +2094,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2116,7 +2116,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -2132,7 +2132,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -2148,7 +2148,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2169,7 +2169,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '8':
@@ -2185,7 +2185,7 @@ if move == '1':
         print('   |   |   ')
         print(' X |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -2207,7 +2207,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2229,7 +2229,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -2244,7 +2244,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '6':
@@ -2260,7 +2260,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '3':
@@ -2276,7 +2276,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2298,7 +2298,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2319,7 +2319,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -2335,7 +2335,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2356,7 +2356,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -2372,7 +2372,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2393,7 +2393,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '4':
@@ -2409,7 +2409,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2431,7 +2431,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -2447,7 +2447,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -2463,7 +2463,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -2479,7 +2479,7 @@ if move == '1':
             print('   |   |   ')
             print(' X | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2501,7 +2501,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2522,7 +2522,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -2538,7 +2538,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2559,7 +2559,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -2575,7 +2575,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2596,7 +2596,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -2612,7 +2612,7 @@ if move == '1':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2634,7 +2634,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -2650,7 +2650,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -2666,7 +2666,7 @@ if move == '1':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2687,7 +2687,7 @@ if move == '1':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
 if move == '2':
@@ -2703,7 +2703,7 @@ if move == '2':
     print('   |   |   ')
     print(' O | X |   ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -2725,7 +2725,7 @@ if move == '2':
         print('   |   |   ')
         print(' O | X | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -2747,7 +2747,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2769,7 +2769,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -2785,7 +2785,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -2801,7 +2801,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -2817,7 +2817,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -2833,7 +2833,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -2849,7 +2849,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -2865,7 +2865,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '4':
@@ -2881,7 +2881,7 @@ if move == '2':
         print('   |   |   ')
         print(' O | X | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -2903,7 +2903,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -2925,7 +2925,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -2940,7 +2940,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '9':
@@ -2956,7 +2956,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -2977,7 +2977,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -2993,7 +2993,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3015,7 +3015,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -3031,7 +3031,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -3047,7 +3047,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '7':
@@ -3063,7 +3063,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3085,7 +3085,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -3101,7 +3101,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -3117,7 +3117,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -3133,7 +3133,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3155,7 +3155,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -3171,7 +3171,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -3187,7 +3187,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '9':
@@ -3203,7 +3203,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3225,7 +3225,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3246,7 +3246,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -3262,7 +3262,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -3278,7 +3278,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '5':
@@ -3294,7 +3294,7 @@ if move == '2':
         print('   |   |   ')
         print(' O | X |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -3316,7 +3316,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3338,7 +3338,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -3354,7 +3354,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -3370,7 +3370,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -3386,7 +3386,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3408,7 +3408,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3429,7 +3429,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -3445,7 +3445,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3466,7 +3466,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '9':
@@ -3482,7 +3482,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3503,7 +3503,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -3519,7 +3519,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3541,7 +3541,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -3557,7 +3557,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3578,7 +3578,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '9':
@@ -3594,7 +3594,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '7':
@@ -3610,7 +3610,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3632,7 +3632,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3653,7 +3653,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -3669,7 +3669,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3690,7 +3690,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '9':
@@ -3706,7 +3706,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3727,7 +3727,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '9':
@@ -3743,7 +3743,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3765,7 +3765,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -3781,7 +3781,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3802,7 +3802,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -3818,7 +3818,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '6':
@@ -3834,7 +3834,7 @@ if move == '2':
         print('   |   |   ')
         print(' O | X |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -3856,7 +3856,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -3872,7 +3872,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -3888,7 +3888,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -3910,7 +3910,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -3926,7 +3926,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -3947,7 +3947,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '8':
@@ -3962,7 +3962,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
         if move == '7':
@@ -3978,7 +3978,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -3994,7 +3994,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '7':
@@ -4010,7 +4010,7 @@ if move == '2':
         print('   |   |   ')
         print(' O | X | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -4032,7 +4032,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4054,7 +4054,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -4070,7 +4070,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -4086,7 +4086,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -4102,7 +4102,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4124,7 +4124,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4145,7 +4145,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -4161,7 +4161,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4182,7 +4182,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '9':
@@ -4198,7 +4198,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4219,7 +4219,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -4235,7 +4235,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4257,7 +4257,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -4273,7 +4273,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4294,7 +4294,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '8':
@@ -4310,7 +4310,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -4326,7 +4326,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4348,7 +4348,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -4364,7 +4364,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -4379,7 +4379,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
         if move == '9':
@@ -4395,7 +4395,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4417,7 +4417,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4438,7 +4438,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -4454,7 +4454,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4475,7 +4475,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -4491,7 +4491,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4512,7 +4512,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '8':
@@ -4528,7 +4528,7 @@ if move == '2':
         print('   |   |   ')
         print(' O | X |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -4550,7 +4550,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -4566,7 +4566,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -4582,7 +4582,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -4598,7 +4598,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -4614,7 +4614,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4636,7 +4636,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -4652,7 +4652,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -4668,7 +4668,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '9':
@@ -4684,7 +4684,7 @@ if move == '2':
         print('   |   |   ')
         print(' O | X | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -4706,7 +4706,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4728,7 +4728,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4749,7 +4749,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -4765,7 +4765,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -4781,7 +4781,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -4797,7 +4797,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4819,7 +4819,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4840,7 +4840,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -4856,7 +4856,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4877,7 +4877,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -4893,7 +4893,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -4914,7 +4914,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -4930,7 +4930,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -4952,7 +4952,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -4968,7 +4968,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -4984,7 +4984,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '7':
@@ -5000,7 +5000,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5022,7 +5022,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5043,7 +5043,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -5059,7 +5059,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5080,7 +5080,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -5096,7 +5096,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5117,7 +5117,7 @@ if move == '2':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -5133,7 +5133,7 @@ if move == '2':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5155,7 +5155,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -5171,7 +5171,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -5186,7 +5186,7 @@ if move == '2':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
 if move == '3':
@@ -5202,7 +5202,7 @@ if move == '3':
     print('   |   |   ')
     print('   |   | X ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -5224,7 +5224,7 @@ if move == '3':
         print('   |   |   ')
         print(' X | O | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -5246,7 +5246,7 @@ if move == '3':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5268,7 +5268,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -5284,7 +5284,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -5300,7 +5300,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5321,7 +5321,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '5':
@@ -5337,7 +5337,7 @@ if move == '3':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5359,7 +5359,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -5375,7 +5375,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -5391,7 +5391,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5412,7 +5412,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -5428,7 +5428,7 @@ if move == '3':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5450,7 +5450,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -5466,7 +5466,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -5482,7 +5482,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5503,7 +5503,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '7':
@@ -5519,7 +5519,7 @@ if move == '3':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5540,7 +5540,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '6':
@@ -5556,7 +5556,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5577,7 +5577,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -5593,7 +5593,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5614,7 +5614,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -5630,7 +5630,7 @@ if move == '3':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5652,7 +5652,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5673,7 +5673,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -5689,7 +5689,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5710,7 +5710,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -5726,7 +5726,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5747,7 +5747,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '2':
@@ -5763,7 +5763,7 @@ if move == '3':
         print('   |   |   ')
         print(' O | X | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -5785,7 +5785,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -5801,7 +5801,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5823,7 +5823,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -5839,7 +5839,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -5854,7 +5854,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
         if move == '6':
@@ -5870,7 +5870,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -5886,7 +5886,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -5902,7 +5902,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '4':
@@ -5918,7 +5918,7 @@ if move == '3':
         print('   |   |   ')
         print(' O |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -5940,7 +5940,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -5956,7 +5956,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -5978,7 +5978,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -5999,7 +5999,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '7':
@@ -6014,7 +6014,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -6030,7 +6030,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6051,7 +6051,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
         if move == '6':
@@ -6067,7 +6067,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -6083,7 +6083,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -6099,7 +6099,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '5':
@@ -6115,7 +6115,7 @@ if move == '3':
         print('   |   |   ')
         print('   |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -6137,7 +6137,7 @@ if move == '3':
             print('   |   |   ')
             print(' X |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -6153,7 +6153,7 @@ if move == '3':
             print('   |   |   ')
             print('   | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -6169,7 +6169,7 @@ if move == '3':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -6185,7 +6185,7 @@ if move == '3':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -6201,7 +6201,7 @@ if move == '3':
             print('   |   |   ')
             print('   | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -6223,7 +6223,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6244,7 +6244,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -6260,7 +6260,7 @@ if move == '3':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6281,7 +6281,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -6297,7 +6297,7 @@ if move == '3':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6318,7 +6318,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '6':
@@ -6334,7 +6334,7 @@ if move == '3':
         print('   |   |   ')
         print('   |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -6356,7 +6356,7 @@ if move == '3':
             print('   |   |   ')
             print(' X |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -6372,7 +6372,7 @@ if move == '3':
             print('   |   |   ')
             print('   | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -6388,7 +6388,7 @@ if move == '3':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -6404,7 +6404,7 @@ if move == '3':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -6420,7 +6420,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -6442,7 +6442,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -6458,7 +6458,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -6474,7 +6474,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '7':
@@ -6490,7 +6490,7 @@ if move == '3':
         print('   |   |   ')
         print('   |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -6512,7 +6512,7 @@ if move == '3':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -6533,7 +6533,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '6':
@@ -6549,7 +6549,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -6565,7 +6565,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6586,7 +6586,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '2':
@@ -6602,7 +6602,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -6618,7 +6618,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -6634,7 +6634,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -6650,7 +6650,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '8':
@@ -6666,7 +6666,7 @@ if move == '3':
         print('   |   |   ')
         print('   |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -6688,7 +6688,7 @@ if move == '3':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -6710,7 +6710,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6731,7 +6731,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -6747,7 +6747,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6768,7 +6768,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -6784,7 +6784,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6805,7 +6805,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '2':
@@ -6821,7 +6821,7 @@ if move == '3':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -6843,7 +6843,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -6858,7 +6858,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '6':
@@ -6874,7 +6874,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -6890,7 +6890,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -6912,7 +6912,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -6928,7 +6928,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -6949,7 +6949,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -6965,7 +6965,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -6981,7 +6981,7 @@ if move == '3':
             print('   |   |   ')
             print('   | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -7003,7 +7003,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -7024,7 +7024,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -7040,7 +7040,7 @@ if move == '3':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -7061,7 +7061,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -7077,7 +7077,7 @@ if move == '3':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -7098,7 +7098,7 @@ if move == '3':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -7114,7 +7114,7 @@ if move == '3':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -7136,7 +7136,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -7152,7 +7152,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -7168,7 +7168,7 @@ if move == '3':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
 if move == '4':
@@ -7184,7 +7184,7 @@ if move == '4':
     print('   |   |   ')
     print('   |   | O ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -7206,7 +7206,7 @@ if move == '4':
         print('   |   |   ')
         print(' X |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -7228,7 +7228,7 @@ if move == '4':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -7244,7 +7244,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -7266,7 +7266,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -7282,7 +7282,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -7297,7 +7297,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
         if move == '6':
@@ -7313,7 +7313,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -7329,7 +7329,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -7345,7 +7345,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '2':
@@ -7361,7 +7361,7 @@ if move == '4':
         print('   |   |   ')
         print('   | X | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -7383,7 +7383,7 @@ if move == '4':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -7399,7 +7399,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -7421,7 +7421,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -7436,7 +7436,7 @@ if move == '4':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '9':
@@ -7452,7 +7452,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -7473,7 +7473,7 @@ if move == '4':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
         if move == '6':
@@ -7489,7 +7489,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -7505,7 +7505,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -7521,7 +7521,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '5':
@@ -7537,7 +7537,7 @@ if move == '4':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -7559,7 +7559,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -7575,7 +7575,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -7591,7 +7591,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -7607,7 +7607,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -7623,7 +7623,7 @@ if move == '4':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -7645,7 +7645,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -7666,7 +7666,7 @@ if move == '4':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -7682,7 +7682,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -7698,7 +7698,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '6':
@@ -7714,7 +7714,7 @@ if move == '4':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -7736,7 +7736,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -7752,7 +7752,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -7768,7 +7768,7 @@ if move == '4':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -7790,7 +7790,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -7806,7 +7806,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -7822,7 +7822,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -7838,7 +7838,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -7854,7 +7854,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '7':
@@ -7870,7 +7870,7 @@ if move == '4':
         print('   |   |   ')
         print(' O |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -7892,7 +7892,7 @@ if move == '4':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -7914,7 +7914,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -7930,7 +7930,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -7946,7 +7946,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -7962,7 +7962,7 @@ if move == '4':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -7978,7 +7978,7 @@ if move == '4':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -7994,7 +7994,7 @@ if move == '4':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -8010,7 +8010,7 @@ if move == '4':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '8':
@@ -8026,7 +8026,7 @@ if move == '4':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -8048,7 +8048,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -8064,7 +8064,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -8080,7 +8080,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -8096,7 +8096,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -8118,7 +8118,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '2':
@@ -8134,7 +8134,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -8150,7 +8150,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '7':
@@ -8166,7 +8166,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '9':
@@ -8182,7 +8182,7 @@ if move == '4':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -8204,7 +8204,7 @@ if move == '4':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -8220,7 +8220,7 @@ if move == '4':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -8236,7 +8236,7 @@ if move == '4':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -8258,7 +8258,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8279,7 +8279,7 @@ if move == '4':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -8294,7 +8294,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -8310,7 +8310,7 @@ if move == '4':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '6':
@@ -8326,7 +8326,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -8342,7 +8342,7 @@ if move == '4':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
 if move == '5':
@@ -8358,7 +8358,7 @@ if move == '5':
     print('   |   |   ')
     print('   |   |   ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -8380,7 +8380,7 @@ if move == '5':
         print('   |   |   ')
         print(' X |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -8402,7 +8402,7 @@ if move == '5':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -8418,7 +8418,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -8434,7 +8434,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -8456,7 +8456,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8477,7 +8477,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -8493,7 +8493,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8514,7 +8514,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -8530,7 +8530,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8551,7 +8551,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '7':
@@ -8567,7 +8567,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -8583,7 +8583,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '2':
@@ -8599,7 +8599,7 @@ if move == '5':
         print('   |   |   ')
         print('   | X |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -8621,7 +8621,7 @@ if move == '5':
             print('   |   |   ')
             print(' X | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -8637,7 +8637,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -8653,7 +8653,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -8669,7 +8669,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -8685,7 +8685,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -8707,7 +8707,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -8723,7 +8723,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -8739,7 +8739,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8760,7 +8760,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '3':
@@ -8776,7 +8776,7 @@ if move == '5':
         print('   |   |   ')
         print('   |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -8798,7 +8798,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -8814,7 +8814,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -8830,7 +8830,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -8846,7 +8846,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -8862,7 +8862,7 @@ if move == '5':
             print('   |   |   ')
             print('   | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -8884,7 +8884,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8905,7 +8905,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -8921,7 +8921,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8942,7 +8942,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -8958,7 +8958,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -8979,7 +8979,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '4':
@@ -8995,7 +8995,7 @@ if move == '5':
         print('   |   |   ')
         print('   |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -9017,7 +9017,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -9033,7 +9033,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -9049,7 +9049,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -9071,7 +9071,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '2':
@@ -9087,7 +9087,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -9103,7 +9103,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9124,7 +9124,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '7':
@@ -9140,7 +9140,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -9156,7 +9156,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '6':
@@ -9172,7 +9172,7 @@ if move == '5':
         print('   |   |   ')
         print('   |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -9194,7 +9194,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -9216,7 +9216,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9237,7 +9237,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -9253,7 +9253,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9274,7 +9274,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -9290,7 +9290,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9311,7 +9311,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '2':
@@ -9327,7 +9327,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -9349,7 +9349,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | X |   ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '3':
@@ -9365,7 +9365,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -9381,7 +9381,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9402,7 +9402,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '3':
@@ -9418,7 +9418,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -9440,7 +9440,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '2':
@@ -9456,7 +9456,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -9472,7 +9472,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '7':
@@ -9488,7 +9488,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -9510,7 +9510,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9531,7 +9531,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '2':
@@ -9547,7 +9547,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9568,7 +9568,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -9584,7 +9584,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9605,7 +9605,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -9621,7 +9621,7 @@ if move == '5':
             print('   |   |   ')
             print('   | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -9643,7 +9643,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9664,7 +9664,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '3':
@@ -9680,7 +9680,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9701,7 +9701,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -9717,7 +9717,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9738,7 +9738,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '7':
@@ -9754,7 +9754,7 @@ if move == '5':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -9776,7 +9776,7 @@ if move == '5':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -9792,7 +9792,7 @@ if move == '5':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -9808,7 +9808,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -9824,7 +9824,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -9846,7 +9846,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9867,7 +9867,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '2':
@@ -9883,7 +9883,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9904,7 +9904,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -9920,7 +9920,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -9941,7 +9941,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -9957,7 +9957,7 @@ if move == '5':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '8':
@@ -9973,7 +9973,7 @@ if move == '5':
         print('   |   |   ')
         print('   | O |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -9995,7 +9995,7 @@ if move == '5':
             print('   |   |   ')
             print(' X | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10017,7 +10017,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10038,7 +10038,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -10054,7 +10054,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10075,7 +10075,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -10091,7 +10091,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10112,7 +10112,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '3':
@@ -10128,7 +10128,7 @@ if move == '5':
             print('   |   |   ')
             print('   | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10150,7 +10150,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10171,7 +10171,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -10187,7 +10187,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10208,7 +10208,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -10224,7 +10224,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10245,7 +10245,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '4':
@@ -10261,7 +10261,7 @@ if move == '5':
             print('   |   |   ')
             print('   | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10283,7 +10283,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '3':
@@ -10299,7 +10299,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10320,7 +10320,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -10336,7 +10336,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '6':
@@ -10352,7 +10352,7 @@ if move == '5':
             print('   |   |   ')
             print('   | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10374,7 +10374,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10395,7 +10395,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '3':
@@ -10411,7 +10411,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10432,7 +10432,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '7':
@@ -10448,7 +10448,7 @@ if move == '5':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -10469,7 +10469,7 @@ if move == '5':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '7':
@@ -10485,7 +10485,7 @@ if move == '5':
             print('   |   |   ')
             print('   | O | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10507,7 +10507,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -10523,7 +10523,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -10539,7 +10539,7 @@ if move == '5':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
 if move == '6':
@@ -10555,7 +10555,7 @@ if move == '6':
     print('   |   |   ')
     print(' O |   |   ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -10577,7 +10577,7 @@ if move == '6':
         print('   |   |   ')
         print(' O | X |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -10599,7 +10599,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -10615,7 +10615,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10637,7 +10637,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -10653,7 +10653,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -10669,7 +10669,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -10685,7 +10685,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -10701,7 +10701,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -10717,7 +10717,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '3':
@@ -10733,7 +10733,7 @@ if move == '6':
         print('   |   |   ')
         print(' O |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -10755,7 +10755,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -10771,7 +10771,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -10787,7 +10787,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10809,7 +10809,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -10824,7 +10824,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -10840,7 +10840,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '7':
@@ -10856,7 +10856,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -10872,7 +10872,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '4':
@@ -10888,7 +10888,7 @@ if move == '6':
         print('   |   |   ')
         print(' O |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -10910,7 +10910,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -10926,7 +10926,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -10942,7 +10942,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -10958,7 +10958,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -10974,7 +10974,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -10996,7 +10996,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -11012,7 +11012,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -11028,7 +11028,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '5':
@@ -11044,7 +11044,7 @@ if move == '6':
         print('   |   |   ')
         print(' O |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -11066,7 +11066,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -11082,7 +11082,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -11098,7 +11098,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -11120,7 +11120,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -11141,7 +11141,7 @@ if move == '6':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -11157,7 +11157,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -11173,7 +11173,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -11189,7 +11189,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -11205,7 +11205,7 @@ if move == '6':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '7':
@@ -11221,7 +11221,7 @@ if move == '6':
         print('   |   |   ')
         print(' O |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -11243,7 +11243,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -11265,7 +11265,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -11281,7 +11281,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -11302,7 +11302,7 @@ if move == '6':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '8':
@@ -11318,7 +11318,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -11334,7 +11334,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -11350,7 +11350,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -11366,7 +11366,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -11382,7 +11382,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '8':
@@ -11398,7 +11398,7 @@ if move == '6':
         print('   |   |   ')
         print(' O |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -11420,7 +11420,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -11442,7 +11442,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '7':
@@ -11458,7 +11458,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -11474,7 +11474,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -11490,7 +11490,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -11506,7 +11506,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -11522,7 +11522,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -11538,7 +11538,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '9':
@@ -11554,7 +11554,7 @@ if move == '6':
         print('   |   |   ')
         print(' O |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -11576,7 +11576,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -11598,7 +11598,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -11614,7 +11614,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -11630,7 +11630,7 @@ if move == '6':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -11646,7 +11646,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -11662,7 +11662,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '7':
@@ -11678,7 +11678,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -11694,7 +11694,7 @@ if move == '6':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
 if move == '7':
@@ -11710,7 +11710,7 @@ if move == '7':
     print('   |   |   ')
     print('   |   | O ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -11732,7 +11732,7 @@ if move == '7':
         print('   |   |   ')
         print(' X |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -11754,7 +11754,7 @@ if move == '7':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -11776,7 +11776,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -11792,7 +11792,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -11813,7 +11813,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -11829,7 +11829,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -11845,7 +11845,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -11867,7 +11867,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -11883,7 +11883,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -11904,7 +11904,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -11920,7 +11920,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '6':
@@ -11936,7 +11936,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -11958,7 +11958,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -11979,7 +11979,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -11995,7 +11995,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12016,7 +12016,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -12032,7 +12032,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12053,7 +12053,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -12069,7 +12069,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12091,7 +12091,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -12107,7 +12107,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -12123,7 +12123,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12144,7 +12144,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '9':
@@ -12160,7 +12160,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12182,7 +12182,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -12198,7 +12198,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12219,7 +12219,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -12234,7 +12234,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
     if move == '2':
@@ -12250,7 +12250,7 @@ if move == '7':
         print('   |   |   ')
         print(' O | X | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -12272,7 +12272,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12294,7 +12294,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -12310,7 +12310,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -12326,7 +12326,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -12342,7 +12342,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12364,7 +12364,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12385,7 +12385,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -12401,7 +12401,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12422,7 +12422,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '9':
@@ -12438,7 +12438,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12459,7 +12459,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -12475,7 +12475,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12497,7 +12497,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -12513,7 +12513,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12534,7 +12534,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '8':
@@ -12550,7 +12550,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -12566,7 +12566,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12588,7 +12588,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -12604,7 +12604,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -12619,7 +12619,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
         if move == '9':
@@ -12635,7 +12635,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12657,7 +12657,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12678,7 +12678,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -12694,7 +12694,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12715,7 +12715,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -12731,7 +12731,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -12752,7 +12752,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
     if move == '4':
@@ -12768,7 +12768,7 @@ if move == '7':
         print('   |   |   ')
         print(' O |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -12790,7 +12790,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -12812,7 +12812,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -12828,7 +12828,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -12844,7 +12844,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -12860,7 +12860,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -12876,7 +12876,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -12892,7 +12892,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -12908,7 +12908,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | O | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '5':
@@ -12924,7 +12924,7 @@ if move == '7':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -12946,7 +12946,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -12962,7 +12962,7 @@ if move == '7':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -12978,7 +12978,7 @@ if move == '7':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -12994,7 +12994,7 @@ if move == '7':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13016,7 +13016,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13037,7 +13037,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '2':
@@ -13053,7 +13053,7 @@ if move == '7':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13074,7 +13074,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -13090,7 +13090,7 @@ if move == '7':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13111,7 +13111,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -13127,7 +13127,7 @@ if move == '7':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '6':
@@ -13143,7 +13143,7 @@ if move == '7':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -13165,7 +13165,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13187,7 +13187,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13208,7 +13208,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -13224,7 +13224,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13245,7 +13245,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -13261,7 +13261,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13282,7 +13282,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '2':
@@ -13298,7 +13298,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13320,7 +13320,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -13336,7 +13336,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13357,7 +13357,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '8':
@@ -13373,7 +13373,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -13389,7 +13389,7 @@ if move == '7':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13411,7 +13411,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -13426,7 +13426,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -13442,7 +13442,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -13458,7 +13458,7 @@ if move == '7':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13480,7 +13480,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13501,7 +13501,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '2':
@@ -13517,7 +13517,7 @@ if move == '7':
                 print('   |   |   ')
                 print('   | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13538,7 +13538,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -13554,7 +13554,7 @@ if move == '7':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13575,7 +13575,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '8':
@@ -13591,7 +13591,7 @@ if move == '7':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13613,7 +13613,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -13629,7 +13629,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -13645,7 +13645,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '8':
@@ -13661,7 +13661,7 @@ if move == '7':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -13683,7 +13683,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -13699,7 +13699,7 @@ if move == '7':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -13715,7 +13715,7 @@ if move == '7':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -13731,7 +13731,7 @@ if move == '7':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -13747,7 +13747,7 @@ if move == '7':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13769,7 +13769,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -13785,7 +13785,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -13801,7 +13801,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '9':
@@ -13817,7 +13817,7 @@ if move == '7':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -13839,7 +13839,7 @@ if move == '7':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13861,7 +13861,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13882,7 +13882,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -13897,7 +13897,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '6':
@@ -13913,7 +13913,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13934,7 +13934,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' X | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '2':
@@ -13950,7 +13950,7 @@ if move == '7':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -13972,7 +13972,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -13993,7 +13993,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -14009,7 +14009,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14030,7 +14030,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -14046,7 +14046,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14067,7 +14067,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '4':
@@ -14083,7 +14083,7 @@ if move == '7':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -14105,7 +14105,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14126,7 +14126,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -14142,7 +14142,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -14158,7 +14158,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -14174,7 +14174,7 @@ if move == '7':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -14196,7 +14196,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14217,7 +14217,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -14233,7 +14233,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -14249,7 +14249,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '6':
@@ -14265,7 +14265,7 @@ if move == '7':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -14287,7 +14287,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14308,7 +14308,7 @@ if move == '7':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -14324,7 +14324,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -14340,7 +14340,7 @@ if move == '7':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
 if move == '8':
@@ -14356,7 +14356,7 @@ if move == '8':
     print('   |   |   ')
     print('   |   |   ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -14378,7 +14378,7 @@ if move == '8':
         print('   |   |   ')
         print(' X |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -14400,7 +14400,7 @@ if move == '8':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -14416,7 +14416,7 @@ if move == '8':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -14432,7 +14432,7 @@ if move == '8':
             print('   |   |   ')
             print(' X | O | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -14454,7 +14454,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14475,7 +14475,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -14491,7 +14491,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14512,7 +14512,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '9':
@@ -14527,7 +14527,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
         if move == '6':
@@ -14543,7 +14543,7 @@ if move == '8':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -14559,7 +14559,7 @@ if move == '8':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '2':
@@ -14575,7 +14575,7 @@ if move == '8':
         print('   |   |   ')
         print('   | X |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -14597,7 +14597,7 @@ if move == '8':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -14613,7 +14613,7 @@ if move == '8':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -14635,7 +14635,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -14651,7 +14651,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -14667,7 +14667,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -14683,7 +14683,7 @@ if move == '8':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -14699,7 +14699,7 @@ if move == '8':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -14715,7 +14715,7 @@ if move == '8':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '3':
@@ -14731,7 +14731,7 @@ if move == '8':
         print('   |   |   ')
         print(' O |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -14753,7 +14753,7 @@ if move == '8':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -14769,7 +14769,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -14791,7 +14791,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -14807,7 +14807,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -14828,7 +14828,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -14844,7 +14844,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -14860,7 +14860,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -14876,7 +14876,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -14892,7 +14892,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '4':
@@ -14908,7 +14908,7 @@ if move == '8':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -14930,7 +14930,7 @@ if move == '8':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -14946,7 +14946,7 @@ if move == '8':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -14962,7 +14962,7 @@ if move == '8':
             print('   |   |   ')
             print('   | O | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -14984,7 +14984,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15005,7 +15005,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -15020,7 +15020,7 @@ if move == '8':
                 print('   |   |   ')
                 print('   | O | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '9':
@@ -15036,7 +15036,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '6':
@@ -15052,7 +15052,7 @@ if move == '8':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '9':
@@ -15068,7 +15068,7 @@ if move == '8':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '5':
@@ -15084,7 +15084,7 @@ if move == '8':
         print('   |   |   ')
         print('   | O |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -15106,7 +15106,7 @@ if move == '8':
             print('   |   |   ')
             print(' X | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15128,7 +15128,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15149,7 +15149,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -15165,7 +15165,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15186,7 +15186,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -15202,7 +15202,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15223,7 +15223,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '3':
@@ -15239,7 +15239,7 @@ if move == '8':
             print('   |   |   ')
             print('   | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15261,7 +15261,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15282,7 +15282,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -15298,7 +15298,7 @@ if move == '8':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15319,7 +15319,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '6':
@@ -15335,7 +15335,7 @@ if move == '8':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15356,7 +15356,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '4':
@@ -15372,7 +15372,7 @@ if move == '8':
             print('   |   |   ')
             print('   | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15394,7 +15394,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15415,7 +15415,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '3':
@@ -15431,7 +15431,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15452,7 +15452,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '9':
@@ -15468,7 +15468,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15489,7 +15489,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -15505,7 +15505,7 @@ if move == '8':
             print('   |   |   ')
             print('   | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15527,7 +15527,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15548,7 +15548,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '3':
@@ -15564,7 +15564,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '9':
@@ -15580,7 +15580,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O |   ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '9':
@@ -15596,7 +15596,7 @@ if move == '8':
             print('   |   |   ')
             print(' O | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15618,7 +15618,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -15634,7 +15634,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -15650,7 +15650,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '6':
@@ -15666,7 +15666,7 @@ if move == '8':
         print('   |   |   ')
         print('   |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -15688,7 +15688,7 @@ if move == '8':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15710,7 +15710,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -15726,7 +15726,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -15742,7 +15742,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -15763,7 +15763,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
         if move == '2':
@@ -15779,7 +15779,7 @@ if move == '8':
             print('   |   |   ')
             print('   | X |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15801,7 +15801,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '3':
@@ -15817,7 +15817,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -15833,7 +15833,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '3':
@@ -15849,7 +15849,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15871,7 +15871,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -15887,7 +15887,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -15903,7 +15903,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -15919,7 +15919,7 @@ if move == '8':
             print('   |   |   ')
             print('   |   |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -15941,7 +15941,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X |   | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '2':
@@ -15957,7 +15957,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '3':
@@ -15973,7 +15973,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -15989,7 +15989,7 @@ if move == '8':
             print('   |   |   ')
             print('   | O |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -16011,7 +16011,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' X | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16032,7 +16032,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '3':
@@ -16048,7 +16048,7 @@ if move == '8':
                 print('   |   |   ')
                 print('   | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16069,7 +16069,7 @@ if move == '8':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '4':
@@ -16084,7 +16084,7 @@ if move == '8':
                 print('   |   |   ')
                 print('   | O |   ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
     if move == '9':
@@ -16100,7 +16100,7 @@ if move == '8':
         print('   |   |   ')
         print(' O |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -16122,7 +16122,7 @@ if move == '8':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -16138,7 +16138,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -16154,7 +16154,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -16176,7 +16176,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -16192,7 +16192,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -16208,7 +16208,7 @@ if move == '8':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '5':
@@ -16224,7 +16224,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -16240,7 +16240,7 @@ if move == '8':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
 if move == '9':
@@ -16256,7 +16256,7 @@ if move == '9':
     print('   |   |   ')
     print('   |   |   ')
     print('   |   |   \n')
-    
+
     print('Enter the number of your move:')
     print('  7|8|9')
     print('  -+-+-')
@@ -16278,7 +16278,7 @@ if move == '9':
         print('   |   |   ')
         print(' X |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -16300,7 +16300,7 @@ if move == '9':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -16316,7 +16316,7 @@ if move == '9':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -16338,7 +16338,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -16353,7 +16353,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -16369,7 +16369,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16390,7 +16390,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '4':
@@ -16406,7 +16406,7 @@ if move == '9':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '6':
@@ -16422,7 +16422,7 @@ if move == '9':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -16438,7 +16438,7 @@ if move == '9':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '2':
@@ -16454,7 +16454,7 @@ if move == '9':
         print('   |   |   ')
         print('   | X | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -16476,7 +16476,7 @@ if move == '9':
             print('   |   |   ')
             print(' X | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -16492,7 +16492,7 @@ if move == '9':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -16508,7 +16508,7 @@ if move == '9':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -16530,7 +16530,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16551,7 +16551,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -16567,7 +16567,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -16582,7 +16582,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
         if move == '6':
@@ -16598,7 +16598,7 @@ if move == '9':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -16614,7 +16614,7 @@ if move == '9':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '3':
@@ -16630,7 +16630,7 @@ if move == '9':
         print('   |   |   ')
         print('   |   | X ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -16652,7 +16652,7 @@ if move == '9':
             print('   |   |   ')
             print(' X | O | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -16674,7 +16674,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16695,7 +16695,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -16710,7 +16710,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -16726,7 +16726,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' X | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16747,7 +16747,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' X | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '2':
@@ -16763,7 +16763,7 @@ if move == '9':
             print('   |   |   ')
             print(' O | X | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -16785,7 +16785,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16806,7 +16806,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -16822,7 +16822,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -16838,7 +16838,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '4':
@@ -16854,7 +16854,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -16876,7 +16876,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16897,7 +16897,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -16913,7 +16913,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16934,7 +16934,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -16950,7 +16950,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -16971,7 +16971,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '5':
@@ -16987,7 +16987,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17009,7 +17009,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -17025,7 +17025,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17046,7 +17046,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -17062,7 +17062,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -17078,7 +17078,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17100,7 +17100,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -17116,7 +17116,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17137,7 +17137,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -17153,7 +17153,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '4':
@@ -17169,7 +17169,7 @@ if move == '9':
         print('   |   |   ')
         print(' O |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -17191,7 +17191,7 @@ if move == '9':
             print('   |   |   ')
             print(' O | X | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17213,7 +17213,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17234,7 +17234,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | O ')
                     print('   |   |   \n')
-                    
+
                     print('You have won!')
                     sys.exit()
             if move == '6':
@@ -17250,7 +17250,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '8':
@@ -17266,7 +17266,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '3':
@@ -17282,7 +17282,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17304,7 +17304,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17325,7 +17325,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '5':
@@ -17341,7 +17341,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17362,7 +17362,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -17378,7 +17378,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17399,7 +17399,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '5':
@@ -17415,7 +17415,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17437,7 +17437,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17458,7 +17458,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '3':
@@ -17474,7 +17474,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17495,7 +17495,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -17511,7 +17511,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17532,7 +17532,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -17548,7 +17548,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17570,7 +17570,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -17585,7 +17585,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -17601,7 +17601,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -17617,7 +17617,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17639,7 +17639,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '5':
@@ -17655,7 +17655,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -17671,7 +17671,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
     if move == '5':
@@ -17687,7 +17687,7 @@ if move == '9':
         print('   |   |   ')
         print(' O |   |   ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -17709,7 +17709,7 @@ if move == '9':
             print('   |   |   ')
             print(' O | X |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '3':
@@ -17725,7 +17725,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | X ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -17741,7 +17741,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17763,7 +17763,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17784,7 +17784,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | X | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '3':
@@ -17800,7 +17800,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | X ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17821,7 +17821,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
             if move == '8':
@@ -17837,7 +17837,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O |   ')
                 print('   |   |   \n')
-                
+
                 print('Enter the number of your move:')
                 print('  7|8|9')
                 print('  -+-+-')
@@ -17858,7 +17858,7 @@ if move == '9':
                     print('   |   |   ')
                     print(' O | O | X ')
                     print('   |   |   \n')
-                    
+
                     print('It\'s a tie!')
                     sys.exit()
         if move == '6':
@@ -17874,7 +17874,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '8':
@@ -17890,7 +17890,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   |   ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '6':
@@ -17906,7 +17906,7 @@ if move == '9':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -17928,7 +17928,7 @@ if move == '9':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -17944,7 +17944,7 @@ if move == '9':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -17960,7 +17960,7 @@ if move == '9':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -17976,7 +17976,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -17998,7 +17998,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '4':
@@ -18013,7 +18013,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O |   | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '8':
@@ -18029,7 +18029,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '8':
@@ -18045,7 +18045,7 @@ if move == '9':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
     if move == '8':
@@ -18061,7 +18061,7 @@ if move == '9':
         print('   |   |   ')
         print('   |   | O ')
         print('   |   |   \n')
-        
+
         print('Enter the number of your move:')
         print('  7|8|9')
         print('  -+-+-')
@@ -18083,7 +18083,7 @@ if move == '9':
             print('   |   |   ')
             print(' X |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '2':
@@ -18099,7 +18099,7 @@ if move == '9':
             print('   |   |   ')
             print('   | X | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '4':
@@ -18115,7 +18115,7 @@ if move == '9':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()
         if move == '5':
@@ -18131,7 +18131,7 @@ if move == '9':
             print('   |   |   ')
             print(' O |   | O ')
             print('   |   |   \n')
-            
+
             print('Enter the number of your move:')
             print('  7|8|9')
             print('  -+-+-')
@@ -18152,7 +18152,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | X | O ')
                 print('   |   |   \n')
-                
+
                 print('You have won!')
                 sys.exit()
             if move == '4':
@@ -18168,7 +18168,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
             if move == '6':
@@ -18184,7 +18184,7 @@ if move == '9':
                 print('   |   |   ')
                 print(' O | O | O ')
                 print('   |   |   \n')
-                
+
                 print('The computer wins!')
                 sys.exit()
         if move == '6':
@@ -18200,6 +18200,6 @@ if move == '9':
             print('   |   |   ')
             print('   |   | O ')
             print('   |   |   \n')
-            
+
             print('The computer wins!')
             sys.exit()

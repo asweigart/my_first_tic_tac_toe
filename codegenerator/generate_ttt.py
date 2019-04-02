@@ -12,6 +12,13 @@ logging.disable(logging.CRITICAL)
 import copy
 import random
 
+boardTemplate = """print('%s|%s|%s\\n-+-+-\\n%s|%s|%s\\n-+-+-\\n%s|%s|%s\\n')
+"""
+
+enterMoveMessage = """print('Enter the number of your move:')
+print('  789\\n  456\\n  123')"""
+
+'''
 boardTemplate = """print('   |   |   ')
 print(' %s | %s | %s ')
 print('   |   |   ')
@@ -31,6 +38,7 @@ print('  -+-+-')
 print('  4|5|6')
 print('  -+-+-')
 print('  1|2|3')"""
+'''
 
 # ===== start of copy-pasted tic tac toe code =======================
 def isWinner(bo, le):

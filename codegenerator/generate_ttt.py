@@ -12,8 +12,7 @@ logging.disable(logging.CRITICAL)
 import copy
 import random
 
-boardTemplate = """print('%s|%s|%s\\n-+-+-\\n%s|%s|%s\\n-+-+-\\n%s|%s|%s\\n')
-"""
+boardTemplate = """print('%s|%s|%s\\n-+-+-\\n%s|%s|%s\\n-+-+-\\n%s|%s|%s\\n')"""
 
 enterMoveMessage = """print('Enter the number of your move:')
 print('  789\\n  456\\n  123')"""

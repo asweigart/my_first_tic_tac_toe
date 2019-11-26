@@ -190,11 +190,17 @@ def printMove(originalBoard, indent=0):
         printMove(copy.copy(board), indent + 1)
 
 
-print('import sys')
-print('if sys.version_info[0] == 2:')
-print('    input = raw_input # python 2 compatibility')
-print("print('Welcome to Tic Tac Toe!')")
-print("print('You are X.\\n')")
+print('''# My first tic-tac-toe program, by Al Sweigart al@inventwithpython.com
+# This sure was a lot of typing, but I finally finished it!
+
+# (This is a joke program.)
+
+import sys
+if sys.version_info[0] == 2:
+    input = raw_input # python 2 compatibility
+print('Welcome to Tic Tac Toe!')
+print('You are X.\\n')
+''')
 
 board = [' '] * 10
 print(getPrintedBoard(board, 0))
